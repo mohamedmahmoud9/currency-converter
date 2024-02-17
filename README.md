@@ -1,7 +1,5 @@
 # Currency Converter App
 
-![Currency Converter App]
-
 ## Description
 
 Currency Converter App is a simple mobile application that allows users to convert currencies and check exchange rates. With this app, users can easily convert between different currencies and view exchange rates for the past 7 days.
