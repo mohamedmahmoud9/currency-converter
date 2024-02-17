@@ -1,4 +1,5 @@
 # Currency Converter App
+<img src="simulator_screenshot_C6BE7C7B-542B-4C6B-943B-10B5C9607050.png" width="420" align="right" alt="Currency Converter">
 
 ## Description
 
