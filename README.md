@@ -1,6 +1,6 @@
 # Currency Converter App
 
-![Currency Converter App](app_demo.gif)
+![Currency Converter App]
 
 ## Description
 
