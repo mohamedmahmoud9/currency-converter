@@ -1,0 +1,28 @@
+{
+  "currencies": [
+    {
+      "code": "USD",
+      "falg": "https://flagcdn.com/48x36/us.png",
+      "name": "United States Dollar",
+      "symbol": "$"
+    },
+    {
+      "code": "SAR",
+      "falg": "https://flagcdn.com/48x36/sa.png",
+      "name": "Saudi Arabia Riyal",
+      "symbol": "ر.س"
+    },
+    {
+      "code": "EUR",
+      "falg": "https://flagcdn.com/48x36/gb.png",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    {
+      "code": "KWD",
+      "falg": "https://flagcdn.com/48x36/kw.png",
+      "name": "Kuwaiti Dinar",
+      "symbol": "د.ك"
+    }
+  ]
+}
